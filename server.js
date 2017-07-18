@@ -26,7 +26,7 @@ var routes = require("./controllers/burgers_controllers.js");
 app.use("/", routes);
 
 db.sequelize.sync({force:true}).then(function() {
-  app.listen(3000, function() {
+  app.listen(port, function() {
 
   });
 });
