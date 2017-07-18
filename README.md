@@ -1,2 +1,2 @@
-# sequelizeBurger
-Web App to integrate MySQL and Node using ORM
+# burgerApp
+A MVC application using Express , MySQL and Handlebars

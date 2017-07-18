@@ -1,0 +1,7 @@
+body {
+    font-family: 'Comic Sans', fantasy, 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    overflow-x: hidden;
+    background-image: url("../img/burgerWallPaper.jpg");
+    padding-top: 1em;
+    color: white;
+}
